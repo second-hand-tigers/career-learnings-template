@@ -35,7 +35,7 @@ Steps to turn this template into your own `<your-github-username>-career-learnin
 
 - Settings → Pages → Source: **Deploy from a branch** → Branch: `main`, folder: **/docs**.
 - Edit `docs/_config.yml` — set `title` and `description`.
-- Edit `docs/index.md` and `docs/about.md` — replace `REPLACE-WITH-YOUR-USERNAME`, `[Your Name]`, and other placeholders, matching what you put in README.md, with a **Toggle to Repo View** link at the top instead.
+- Edit `docs/index.md` and `docs/about.md` — replace `REPLACE-WITH-YOUR-USERNAME`, `[Your Name]`, and other placeholders, matching what you put in README.md. Leave out any link back to the repo view; the Pages site is for readers, and keeping them on it is deliberate.
 - Link rules for the Pages files:
   - Links to the Learning Hub, the directory, or any repo that has Pages turned on use the **Pages URL** (`https://second-hand-tigers.github.io/<repo>/`), so readers stay on the site.
   - Wiki links stay as full `github.com/.../wiki/...` URLs — wikis aren't served by Pages, and relative links resolve differently once served from the Pages site.
