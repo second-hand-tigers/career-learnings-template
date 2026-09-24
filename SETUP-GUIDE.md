@@ -2,6 +2,8 @@
 
 Steps to turn this template into your own `<your-github-username>-career-learnings` repo. For the *why* behind each convention below — and the full style guide (breadcrumbs, cross-linking, images, naming people in anecdotes, tables) — see [Building Your Own Career-Learnings Network](https://github.com/second-hand-tigers/career-learnings-directory/wiki/Building-Your-Own-Career-Learnings-Network-Repo-and-Wiki). Read that once; it covers everything here in more depth and this guide won't repeat it.
 
+**Placeholders used throughout this template:** `REPLACE-WITH-YOUR-USERNAME` (your GitHub username) and `[Your Name]`. A find-and-replace for both in every file you copy catches them all.
+
 ## 1. Create your repo
 
 - Click **Use this template** on [career-learnings-template](https://github.com/second-hand-tigers/career-learnings-template) → **Create a new repository**.
@@ -15,7 +17,7 @@ Steps to turn this template into your own `<your-github-username>-career-learnin
   - **Home** — from `wiki-templates/Home.md`. Keep its structure: **Where to Start** (your entry-point pages, bottom line up front), **Other Topics**, **About the Author**, and an empty **Job Aids** table.
   - **_Sidebar** — from `wiki-templates/_Sidebar.md`. Create it from any wiki page via "Add a custom sidebar." It holds the breadcrumb trail plus your Where to Start and Other Topics links.
   - **_Footer** — from `wiki-templates/_Footer.md`. Create it via "Add a custom footer." It repeats the breadcrumb trail so mobile readers, who see the sidebar at the bottom of the page, still have navigation.
-- Replace `<your-github-username>` and `[Your Name]` in all three.
+- Replace `REPLACE-WITH-YOUR-USERNAME` and `[Your Name]` in all three.
 - Once everything is copied in, delete the `wiki-templates/` folder from your own repo — it's scaffolding, not part of your final repo.
 
 ## 3. Set up the Project board
@@ -25,7 +27,7 @@ Steps to turn this template into your own `<your-github-username>-career-learnin
 
 ## 4. Fill in README.md
 
-- Replace every `<!-- TODO -->` block and bracketed placeholder: your name, your topic tables, your About Me bio.
+- Replace `REPLACE-WITH-YOUR-USERNAME`, `[Your Name]`, and every `<!-- TODO -->` block: your topic tables, your About Me bio.
 - Keep the order: breadcrumb trail and **Toggle to Page View** link at the top, then **Where to Start**, **Other Topics**, Why This Exists, How This Repo Is Organized, About Me. Readers should reach your content before your mission statement.
 - Links in the README go to the repo view (`github.com/...`) for repos, and to `github.com/.../wiki/...` for wiki pages.
 
@@ -33,7 +35,7 @@ Steps to turn this template into your own `<your-github-username>-career-learnin
 
 - Settings → Pages → Source: **Deploy from a branch** → Branch: `main`, folder: **/docs**.
 - Edit `docs/_config.yml` — set `title` and `description`.
-- Edit `docs/index.md` and `docs/about.md` — replace placeholders, matching what you put in README.md, with a **Toggle to Repo View** link at the top instead.
+- Edit `docs/index.md` and `docs/about.md` — replace `REPLACE-WITH-YOUR-USERNAME`, `[Your Name]`, and other placeholders, matching what you put in README.md, with a **Toggle to Repo View** link at the top instead.
 - Link rules for the Pages files:
   - Links to the Learning Hub, the directory, or any repo that has Pages turned on use the **Pages URL** (`https://second-hand-tigers.github.io/<repo>/`), so readers stay on the site.
   - Wiki links stay as full `github.com/.../wiki/...` URLs — wikis aren't served by Pages, and relative links resolve differently once served from the Pages site.
