@@ -5,8 +5,7 @@ title: Home
 
 <img src="https://second-hand-tigers.github.io/assets/images/logo_clear_background.png" alt="Second-Hand Tigers logo" width="120">
 
-_[Learning Hub](https://second-hand-tigers.github.io/) › [Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/) › [Your Name]'s Career Learnings_<br>
-_[Toggle to Repo View](https://github.com/second-hand-tigers/REPLACE-WITH-YOUR-USERNAME-career-learnings)_
+_[Learning Hub](https://second-hand-tigers.github.io/) › [Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/) › [Your Name]'s Career Learnings_
 
 # [Your Name]'s Career Learnings
 
