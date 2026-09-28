@@ -46,6 +46,5 @@ of the whole layout that's supposed to be entirely yours. -->
 
 ---
 
-**License:** © [Year] [Your Name]. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to [Your Name] and indicate if changes were made.
-
+License: © [Year] [Author Name]. This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to [Author Name] and indicate if changes were made. The Second-Hand Tigers logo is not covered by this license. All rights in it are reserved.
 _This repo was created from the [career-learnings-template](https://github.com/second-hand-tigers/career-learnings-template). See [SETUP-GUIDE.md](./SETUP-GUIDE.md) for the steps to finish setting it up._
