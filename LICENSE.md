@@ -24,6 +24,10 @@ Under the following terms:
 
 Third-party material quoted or reproduced in this repository remains the property of its owners and is not covered by this license.
 
+## Second-Hand Tigers logo
+
+The Second-Hand Tigers logo is not covered by this license. All rights in it are reserved, and it may not be used without permission.
+
 ## Contributions
 
 Contributions are licensed on the same terms. See [CONTRIBUTING.md](./CONTRIBUTING.md).
